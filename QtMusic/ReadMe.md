@@ -1,0 +1,7 @@
+# QtMusic
+
+![image-20240729131232833](ReadMe.assets/image-20240729131232833.png)
+
+![image-20240729131306965](ReadMe.assets/image-20240729131306965.png)
+
+![image-20240729131333083](ReadMe.assets/image-20240729131333083.png)
